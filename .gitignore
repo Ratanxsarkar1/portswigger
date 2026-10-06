@@ -1,0 +1,8 @@
+# Ignore files and directories beginning with "_"
+_*
+**/_*
+
+# Git
+.git/
+
+
